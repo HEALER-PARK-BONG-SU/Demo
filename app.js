@@ -7,7 +7,7 @@ persons.forEach(function(person){
   console.log('Hello',person);
 }
 
-persons.foreach(greeting);
+persons.forEach(greeting);
 */
 const employees = [
   {Name:'Sangraiz',Age:25,Job:'Data Scientist'},
