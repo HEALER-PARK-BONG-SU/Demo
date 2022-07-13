@@ -1,5 +1,5 @@
 const persons = ['imran','kashif','jawad','sangraiz','hamza','maaz'];
-persons.foreach(function(person){
+persons.forEach(function(person){
   console.log('Hello',person);
 });
 
